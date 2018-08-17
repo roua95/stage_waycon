@@ -8,6 +8,11 @@ import org.red5.server.adapter.ApplicationAdapter;
 import org.red5.server.api.IClient;
 import org.red5.server.api.scope.IScope;
 
+/**
+ * Red 5 rest api gateway
+ * @author Lenovo
+ *
+ */
 public class Red5RestApplication extends ApplicationAdapter {
 	
 	
